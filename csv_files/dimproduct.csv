@@ -1,0 +1,1001 @@
+productid,productname,productcategory,productprice
+1,Product 1,Toys,386.43286
+2,Product 2,Home & Garden,324.44293
+3,Product 3,Home & Garden,16.879366
+4,Product 4,Toys,154.40337
+5,Product 5,Clothing,308.2166
+6,Product 6,Sports,211.56267
+7,Product 7,Toys,201.14468
+8,Product 8,Toys,486.1849
+9,Product 9,Electronics,319.13208
+10,Product 10,Toys,99.84556
+11,Product 11,Clothing,322.7282
+12,Product 12,Sports,257.92923
+13,Product 13,Electronics,18.02318
+14,Product 14,Toys,173.75946
+15,Product 15,Sports,193.93633
+16,Product 16,Home & Garden,65.132645
+17,Product 17,Toys,387.63852
+18,Product 18,Sports,456.68784
+19,Product 19,Clothing,42.24131
+20,Product 20,Sports,154.6056
+21,Product 21,Clothing,127.70343
+22,Product 22,Sports,51.56719
+23,Product 23,Clothing,317.22598
+24,Product 24,Electronics,22.386017
+25,Product 25,Clothing,34.345844
+26,Product 26,Toys,317.61908
+27,Product 27,Electronics,395.1382
+28,Product 28,Toys,318.8384
+29,Product 29,Sports,375.12878
+30,Product 30,Clothing,84.01599
+31,Product 31,Sports,133.95651
+32,Product 32,Home & Garden,135.35092
+33,Product 33,Clothing,434.15082
+34,Product 34,Clothing,153.9131
+35,Product 35,Electronics,301.30438
+36,Product 36,Sports,257.86377
+37,Product 37,Electronics,173.6198
+38,Product 38,Home & Garden,483.96637
+39,Product 39,Home & Garden,364.28882
+40,Product 40,Clothing,15.466932
+41,Product 41,Sports,369.19333
+42,Product 42,Clothing,230.81462
+43,Product 43,Sports,460.81012
+44,Product 44,Clothing,94.265015
+45,Product 45,Home & Garden,379.27655
+46,Product 46,Home & Garden,356.55713
+47,Product 47,Toys,293.81424
+48,Product 48,Toys,71.78795
+49,Product 49,Home & Garden,490.25113
+50,Product 50,Sports,375.50818
+51,Product 51,Sports,102.945366
+52,Product 52,Home & Garden,108.12899
+53,Product 53,Toys,228.26788
+54,Product 54,Toys,344.00052
+55,Product 55,Electronics,203.29642
+56,Product 56,Toys,380.67325
+57,Product 57,Home & Garden,66.65912
+58,Product 58,Toys,16.120764
+59,Product 59,Sports,421.23465
+60,Product 60,Electronics,377.235
+61,Product 61,Home & Garden,429.991
+62,Product 62,Toys,432.45746
+63,Product 63,Sports,415.3154
+64,Product 64,Sports,25.669382
+65,Product 65,Electronics,418.08716
+66,Product 66,Clothing,297.70172
+67,Product 67,Home & Garden,54.696373
+68,Product 68,Toys,337.298
+69,Product 69,Electronics,250.3497
+70,Product 70,Toys,483.89417
+71,Product 71,Home & Garden,138.92072
+72,Product 72,Sports,408.30127
+73,Product 73,Home & Garden,351.87686
+74,Product 74,Toys,29.987368
+75,Product 75,Electronics,161.7457
+76,Product 76,Sports,399.96335
+77,Product 77,Clothing,47.097523
+78,Product 78,Toys,241.21396
+79,Product 79,Electronics,465.40262
+80,Product 80,Clothing,31.515032
+81,Product 81,Toys,271.7225
+82,Product 82,Electronics,496.8043
+83,Product 83,Toys,482.3176
+84,Product 84,Home & Garden,481.68573
+85,Product 85,Home & Garden,263.33984
+86,Product 86,Clothing,82.54334
+87,Product 87,Toys,216.09598
+88,Product 88,Toys,259.57007
+89,Product 89,Sports,385.7527
+90,Product 90,Sports,372.53918
+91,Product 91,Clothing,488.31537
+92,Product 92,Toys,79.05698
+93,Product 93,Clothing,239.39035
+94,Product 94,Toys,191.9912
+95,Product 95,Clothing,35.978447
+96,Product 96,Sports,315.1563
+97,Product 97,Electronics,177.42052
+98,Product 98,Toys,329.71075
+99,Product 99,Home & Garden,83.80485
+100,Product 100,Electronics,438.3713
+101,Product 101,Toys,267.56366
+102,Product 102,Electronics,342.39685
+103,Product 103,Electronics,325.4453
+104,Product 104,Home & Garden,70.58026
+105,Product 105,Toys,167.75983
+106,Product 106,Electronics,149.70093
+107,Product 107,Sports,118.33575
+108,Product 108,Sports,126.35752
+109,Product 109,Electronics,57.688137
+110,Product 110,Electronics,175.35594
+111,Product 111,Home & Garden,408.8054
+112,Product 112,Sports,78.70248
+113,Product 113,Electronics,19.652344
+114,Product 114,Toys,257.49112
+115,Product 115,Electronics,281.31613
+116,Product 116,Home & Garden,472.0753
+117,Product 117,Clothing,460.13824
+118,Product 118,Toys,386.47812
+119,Product 119,Toys,160.18645
+120,Product 120,Toys,177.67839
+121,Product 121,Sports,486.73978
+122,Product 122,Electronics,401.5823
+123,Product 123,Home & Garden,175.24995
+124,Product 124,Sports,144.11357
+125,Product 125,Toys,334.98312
+126,Product 126,Electronics,472.05417
+127,Product 127,Clothing,225.81516
+128,Product 128,Sports,430.80444
+129,Product 129,Electronics,148.34135
+130,Product 130,Electronics,268.92096
+131,Product 131,Home & Garden,348.84885
+132,Product 132,Home & Garden,325.14734
+133,Product 133,Home & Garden,328.03848
+134,Product 134,Home & Garden,468.81503
+135,Product 135,Toys,53.47468
+136,Product 136,Home & Garden,356.7387
+137,Product 137,Electronics,19.88787
+138,Product 138,Toys,87.71134
+139,Product 139,Toys,405.0574
+140,Product 140,Sports,279.9641
+141,Product 141,Electronics,228.67036
+142,Product 142,Electronics,498.7927
+143,Product 143,Clothing,226.93446
+144,Product 144,Toys,496.45795
+145,Product 145,Sports,59.85887
+146,Product 146,Electronics,353.1725
+147,Product 147,Electronics,75.06145
+148,Product 148,Electronics,115.925095
+149,Product 149,Electronics,329.89075
+150,Product 150,Home & Garden,98.7101
+151,Product 151,Electronics,17.770895
+152,Product 152,Electronics,120.7622
+153,Product 153,Electronics,205.86041
+154,Product 154,Sports,47.21471
+155,Product 155,Sports,171.41309
+156,Product 156,Home & Garden,316.36902
+157,Product 157,Sports,422.95715
+158,Product 158,Toys,475.4847
+159,Product 159,Home & Garden,224.65945
+160,Product 160,Sports,467.49338
+161,Product 161,Toys,459.2277
+162,Product 162,Toys,473.4846
+163,Product 163,Home & Garden,173.9124
+164,Product 164,Sports,143.42029
+165,Product 165,Home & Garden,463.80585
+166,Product 166,Electronics,108.67454
+167,Product 167,Home & Garden,255.5989
+168,Product 168,Home & Garden,381.9614
+169,Product 169,Electronics,469.7499
+170,Product 170,Home & Garden,70.21284
+171,Product 171,Toys,59.681576
+172,Product 172,Home & Garden,295.05948
+173,Product 173,Home & Garden,399.1776
+174,Product 174,Sports,204.17401
+175,Product 175,Toys,43.339596
+176,Product 176,Toys,208.93047
+177,Product 177,Sports,238.90825
+178,Product 178,Sports,160.74886
+179,Product 179,Electronics,309.28357
+180,Product 180,Sports,43.947178
+181,Product 181,Toys,65.99206
+182,Product 182,Electronics,363.30264
+183,Product 183,Electronics,150.98586
+184,Product 184,Toys,10.152815
+185,Product 185,Home & Garden,11.622615
+186,Product 186,Electronics,161.83208
+187,Product 187,Electronics,426.6241
+188,Product 188,Home & Garden,125.15108
+189,Product 189,Sports,484.24612
+190,Product 190,Electronics,184.18498
+191,Product 191,Toys,84.99365
+192,Product 192,Sports,302.80582
+193,Product 193,Home & Garden,379.5237
+194,Product 194,Electronics,54.78916
+195,Product 195,Electronics,445.30655
+196,Product 196,Toys,185.51848
+197,Product 197,Electronics,385.86533
+198,Product 198,Clothing,365.86426
+199,Product 199,Toys,149.19212
+200,Product 200,Clothing,83.33507
+201,Product 201,Electronics,116.5456
+202,Product 202,Toys,164.50449
+203,Product 203,Electronics,288.38916
+204,Product 204,Sports,495.058
+205,Product 205,Sports,258.92474
+206,Product 206,Electronics,242.27657
+207,Product 207,Home & Garden,197.50354
+208,Product 208,Sports,361.70068
+209,Product 209,Electronics,156.17407
+210,Product 210,Clothing,64.788994
+211,Product 211,Electronics,383.77084
+212,Product 212,Home & Garden,461.9093
+213,Product 213,Sports,225.59741
+214,Product 214,Home & Garden,322.806
+215,Product 215,Toys,282.24228
+216,Product 216,Electronics,268.59882
+217,Product 217,Toys,324.63583
+218,Product 218,Electronics,410.7728
+219,Product 219,Sports,249.54938
+220,Product 220,Clothing,466.50305
+221,Product 221,Home & Garden,100.43103
+222,Product 222,Electronics,291.766
+223,Product 223,Sports,12.755713
+224,Product 224,Clothing,34.991707
+225,Product 225,Toys,256.25528
+226,Product 226,Home & Garden,146.60724
+227,Product 227,Electronics,386.691
+228,Product 228,Sports,329.8199
+229,Product 229,Toys,295.92184
+230,Product 230,Clothing,441.4419
+231,Product 231,Sports,429.338
+232,Product 232,Home & Garden,232.3744
+233,Product 233,Clothing,274.49152
+234,Product 234,Electronics,184.33994
+235,Product 235,Sports,463.02997
+236,Product 236,Toys,217.3912
+237,Product 237,Electronics,405.2488
+238,Product 238,Electronics,302.68396
+239,Product 239,Electronics,467.1947
+240,Product 240,Electronics,413.8842
+241,Product 241,Toys,150.74706
+242,Product 242,Electronics,169.44789
+243,Product 243,Sports,218.45082
+244,Product 244,Clothing,258.00586
+245,Product 245,Toys,399.37262
+246,Product 246,Clothing,91.937065
+247,Product 247,Electronics,488.39902
+248,Product 248,Home & Garden,96.77698
+249,Product 249,Home & Garden,46.363873
+250,Product 250,Sports,412.88107
+251,Product 251,Sports,377.06732
+252,Product 252,Clothing,52.633804
+253,Product 253,Toys,355.1506
+254,Product 254,Electronics,254.66331
+255,Product 255,Clothing,404.45364
+256,Product 256,Sports,161.78279
+257,Product 257,Clothing,40.40069
+258,Product 258,Toys,196.85487
+259,Product 259,Electronics,127.73382
+260,Product 260,Home & Garden,478.33124
+261,Product 261,Home & Garden,499.23248
+262,Product 262,Toys,21.679379
+263,Product 263,Clothing,335.34467
+264,Product 264,Clothing,492.79575
+265,Product 265,Toys,443.6954
+266,Product 266,Home & Garden,415.85983
+267,Product 267,Toys,481.79053
+268,Product 268,Toys,85.30353
+269,Product 269,Sports,88.38463
+270,Product 270,Home & Garden,33.690533
+271,Product 271,Clothing,40.082394
+272,Product 272,Sports,379.55368
+273,Product 273,Home & Garden,249.00087
+274,Product 274,Home & Garden,420.1534
+275,Product 275,Clothing,262.32303
+276,Product 276,Sports,88.74521
+277,Product 277,Clothing,372.903
+278,Product 278,Electronics,60.673958
+279,Product 279,Clothing,148.98529
+280,Product 280,Toys,433.68762
+281,Product 281,Toys,103.20582
+282,Product 282,Electronics,64.439255
+283,Product 283,Clothing,125.29905
+284,Product 284,Home & Garden,106.044395
+285,Product 285,Toys,289.71396
+286,Product 286,Home & Garden,329.17307
+287,Product 287,Clothing,306.8778
+288,Product 288,Sports,14.531755
+289,Product 289,Sports,89.07184
+290,Product 290,Home & Garden,386.7365
+291,Product 291,Electronics,468.16953
+292,Product 292,Clothing,254.7356
+293,Product 293,Toys,283.08218
+294,Product 294,Electronics,268.18268
+295,Product 295,Toys,113.94913
+296,Product 296,Electronics,421.56616
+297,Product 297,Home & Garden,121.50293
+298,Product 298,Home & Garden,263.90155
+299,Product 299,Sports,420.75525
+300,Product 300,Sports,79.219025
+301,Product 301,Sports,258.07367
+302,Product 302,Toys,41.901188
+303,Product 303,Toys,455.2136
+304,Product 304,Clothing,365.94574
+305,Product 305,Sports,251.53128
+306,Product 306,Electronics,122.32567
+307,Product 307,Clothing,338.2974
+308,Product 308,Electronics,206.39426
+309,Product 309,Clothing,31.441366
+310,Product 310,Clothing,343.44016
+311,Product 311,Clothing,107.96539
+312,Product 312,Electronics,173.58592
+313,Product 313,Home & Garden,492.87534
+314,Product 314,Toys,304.13196
+315,Product 315,Toys,182.94418
+316,Product 316,Sports,59.54092
+317,Product 317,Clothing,82.573364
+318,Product 318,Toys,457.60077
+319,Product 319,Sports,71.97085
+320,Product 320,Toys,470.24612
+321,Product 321,Toys,27.577955
+322,Product 322,Home & Garden,424.00836
+323,Product 323,Home & Garden,265.01526
+324,Product 324,Toys,150.83559
+325,Product 325,Toys,320.28152
+326,Product 326,Clothing,366.69522
+327,Product 327,Toys,128.89786
+328,Product 328,Clothing,397.84174
+329,Product 329,Home & Garden,128.08461
+330,Product 330,Electronics,264.90424
+331,Product 331,Home & Garden,101.75781
+332,Product 332,Toys,112.02269
+333,Product 333,Home & Garden,348.36093
+334,Product 334,Home & Garden,288.4728
+335,Product 335,Electronics,409.41455
+336,Product 336,Home & Garden,431.24762
+337,Product 337,Clothing,21.335943
+338,Product 338,Electronics,45.503735
+339,Product 339,Clothing,331.10397
+340,Product 340,Sports,54.211525
+341,Product 341,Sports,171.107
+342,Product 342,Sports,393.0247
+343,Product 343,Home & Garden,435.03827
+344,Product 344,Toys,267.1863
+345,Product 345,Electronics,421.45728
+346,Product 346,Toys,134.3293
+347,Product 347,Home & Garden,392.46567
+348,Product 348,Home & Garden,81.50724
+349,Product 349,Toys,259.20474
+350,Product 350,Sports,77.50176
+351,Product 351,Electronics,30.847748
+352,Product 352,Electronics,120.08359
+353,Product 353,Home & Garden,68.403534
+354,Product 354,Electronics,137.38017
+355,Product 355,Sports,294.31503
+356,Product 356,Electronics,361.77036
+357,Product 357,Toys,476.63776
+358,Product 358,Home & Garden,296.99445
+359,Product 359,Electronics,490.0406
+360,Product 360,Home & Garden,310.42258
+361,Product 361,Sports,36.387592
+362,Product 362,Electronics,91.87728
+363,Product 363,Electronics,447.86072
+364,Product 364,Electronics,224.71324
+365,Product 365,Electronics,310.56033
+366,Product 366,Sports,413.4567
+367,Product 367,Clothing,237.53705
+368,Product 368,Toys,37.944077
+369,Product 369,Toys,195.43335
+370,Product 370,Sports,137.58728
+371,Product 371,Clothing,117.38885
+372,Product 372,Electronics,126.07301
+373,Product 373,Clothing,483.35416
+374,Product 374,Sports,57.34297
+375,Product 375,Sports,337.14456
+376,Product 376,Home & Garden,452.73386
+377,Product 377,Home & Garden,210.61682
+378,Product 378,Toys,498.3468
+379,Product 379,Home & Garden,214.37958
+380,Product 380,Electronics,138.28842
+381,Product 381,Electronics,465.78137
+382,Product 382,Sports,190.17383
+383,Product 383,Electronics,218.60768
+384,Product 384,Sports,401.05295
+385,Product 385,Sports,184.02705
+386,Product 386,Clothing,476.0913
+387,Product 387,Sports,347.98737
+388,Product 388,Toys,110.50604
+389,Product 389,Toys,22.425272
+390,Product 390,Sports,381.47507
+391,Product 391,Toys,133.33833
+392,Product 392,Home & Garden,480.11755
+393,Product 393,Home & Garden,304.99887
+394,Product 394,Sports,222.22984
+395,Product 395,Electronics,187.14221
+396,Product 396,Clothing,361.08536
+397,Product 397,Sports,341.55884
+398,Product 398,Electronics,41.725338
+399,Product 399,Home & Garden,136.907
+400,Product 400,Sports,388.65793
+401,Product 401,Toys,204.88065
+402,Product 402,Sports,210.11917
+403,Product 403,Sports,39.265526
+404,Product 404,Sports,229.4558
+405,Product 405,Home & Garden,393.89816
+406,Product 406,Home & Garden,132.12218
+407,Product 407,Sports,444.04178
+408,Product 408,Sports,140.89621
+409,Product 409,Sports,70.04905
+410,Product 410,Electronics,265.9962
+411,Product 411,Toys,223.10887
+412,Product 412,Electronics,312.76645
+413,Product 413,Clothing,208.45985
+414,Product 414,Clothing,461.00763
+415,Product 415,Toys,159.24431
+416,Product 416,Toys,156.2256
+417,Product 417,Home & Garden,32.749405
+418,Product 418,Home & Garden,67.429726
+419,Product 419,Clothing,391.94748
+420,Product 420,Home & Garden,424.11383
+421,Product 421,Sports,58.556995
+422,Product 422,Clothing,307.12143
+423,Product 423,Toys,391.15524
+424,Product 424,Toys,374.10355
+425,Product 425,Clothing,297.54016
+426,Product 426,Sports,359.1897
+427,Product 427,Electronics,257.8891
+428,Product 428,Sports,136.65372
+429,Product 429,Sports,251.63022
+430,Product 430,Home & Garden,74.226875
+431,Product 431,Home & Garden,172.65744
+432,Product 432,Toys,305.19547
+433,Product 433,Clothing,171.60252
+434,Product 434,Sports,230.67311
+435,Product 435,Sports,161.9919
+436,Product 436,Clothing,307.1449
+437,Product 437,Toys,330.7617
+438,Product 438,Sports,322.75168
+439,Product 439,Electronics,384.2604
+440,Product 440,Toys,153.52058
+441,Product 441,Home & Garden,257.58142
+442,Product 442,Clothing,286.02258
+443,Product 443,Toys,291.6119
+444,Product 444,Electronics,243.99678
+445,Product 445,Sports,445.9537
+446,Product 446,Home & Garden,218.95514
+447,Product 447,Sports,143.51761
+448,Product 448,Sports,221.71681
+449,Product 449,Sports,112.698975
+450,Product 450,Home & Garden,440.35892
+451,Product 451,Toys,402.99667
+452,Product 452,Sports,400.42444
+453,Product 453,Toys,112.07578
+454,Product 454,Toys,321.782
+455,Product 455,Clothing,183.30034
+456,Product 456,Electronics,164.46053
+457,Product 457,Clothing,64.23838
+458,Product 458,Sports,358.2998
+459,Product 459,Sports,197.5737
+460,Product 460,Clothing,130.42743
+461,Product 461,Toys,224.09335
+462,Product 462,Home & Garden,325.62646
+463,Product 463,Home & Garden,19.695168
+464,Product 464,Clothing,133.04448
+465,Product 465,Sports,444.798
+466,Product 466,Toys,428.2659
+467,Product 467,Toys,355.55206
+468,Product 468,Home & Garden,234.16129
+469,Product 469,Clothing,353.48752
+470,Product 470,Toys,280.2587
+471,Product 471,Home & Garden,265.7591
+472,Product 472,Sports,419.49472
+473,Product 473,Home & Garden,75.07157
+474,Product 474,Toys,233.56424
+475,Product 475,Toys,343.0954
+476,Product 476,Home & Garden,140.07724
+477,Product 477,Sports,136.88512
+478,Product 478,Sports,172.64255
+479,Product 479,Sports,395.07993
+480,Product 480,Sports,16.401295
+481,Product 481,Electronics,383.41284
+482,Product 482,Home & Garden,456.3228
+483,Product 483,Clothing,426.14883
+484,Product 484,Electronics,34.27272
+485,Product 485,Sports,270.98694
+486,Product 486,Sports,342.3726
+487,Product 487,Home & Garden,12.769706
+488,Product 488,Electronics,245.02841
+489,Product 489,Clothing,438.44504
+490,Product 490,Clothing,452.6088
+491,Product 491,Clothing,498.89563
+492,Product 492,Electronics,41.441757
+493,Product 493,Sports,323.16925
+494,Product 494,Home & Garden,478.818
+495,Product 495,Sports,42.448746
+496,Product 496,Clothing,11.228169
+497,Product 497,Home & Garden,138.57314
+498,Product 498,Toys,26.926188
+499,Product 499,Sports,401.09485
+500,Product 500,Electronics,286.28848
+501,Product 501,Electronics,34.019997
+502,Product 502,Clothing,441.14316
+503,Product 503,Home & Garden,357.11835
+504,Product 504,Sports,136.69449
+505,Product 505,Electronics,486.92578
+506,Product 506,Electronics,113.58826
+507,Product 507,Sports,335.3102
+508,Product 508,Electronics,203.73442
+509,Product 509,Sports,248.48637
+510,Product 510,Clothing,475.44717
+511,Product 511,Sports,93.97665
+512,Product 512,Clothing,371.43924
+513,Product 513,Toys,305.02933
+514,Product 514,Home & Garden,74.12731
+515,Product 515,Home & Garden,410.59683
+516,Product 516,Sports,285.84787
+517,Product 517,Sports,386.99966
+518,Product 518,Electronics,57.966312
+519,Product 519,Toys,492.9445
+520,Product 520,Home & Garden,179.447
+521,Product 521,Toys,93.334625
+522,Product 522,Home & Garden,476.59253
+523,Product 523,Sports,426.69946
+524,Product 524,Electronics,15.768945
+525,Product 525,Electronics,292.3946
+526,Product 526,Home & Garden,471.45108
+527,Product 527,Electronics,473.71277
+528,Product 528,Toys,271.37677
+529,Product 529,Electronics,468.99512
+530,Product 530,Clothing,25.522367
+531,Product 531,Electronics,70.76963
+532,Product 532,Toys,339.33295
+533,Product 533,Electronics,478.90274
+534,Product 534,Electronics,415.43143
+535,Product 535,Sports,72.21426
+536,Product 536,Home & Garden,138.85062
+537,Product 537,Home & Garden,121.889435
+538,Product 538,Home & Garden,216.04884
+539,Product 539,Sports,260.6647
+540,Product 540,Home & Garden,113.1043
+541,Product 541,Toys,388.419
+542,Product 542,Clothing,74.0182
+543,Product 543,Toys,391.86652
+544,Product 544,Electronics,487.77933
+545,Product 545,Toys,386.63696
+546,Product 546,Sports,182.37015
+547,Product 547,Toys,418.20502
+548,Product 548,Toys,442.24625
+549,Product 549,Toys,188.873
+550,Product 550,Home & Garden,202.14786
+551,Product 551,Sports,391.5381
+552,Product 552,Clothing,355.58563
+553,Product 553,Electronics,74.4656
+554,Product 554,Clothing,255.4423
+555,Product 555,Toys,70.66781
+556,Product 556,Toys,412.89374
+557,Product 557,Home & Garden,389.4068
+558,Product 558,Electronics,372.26068
+559,Product 559,Toys,479.99567
+560,Product 560,Electronics,61.10363
+561,Product 561,Clothing,205.15973
+562,Product 562,Sports,119.460434
+563,Product 563,Toys,59.553364
+564,Product 564,Sports,109.499374
+565,Product 565,Clothing,195.27908
+566,Product 566,Sports,212.59119
+567,Product 567,Home & Garden,263.63882
+568,Product 568,Toys,455.86526
+569,Product 569,Electronics,99.35677
+570,Product 570,Electronics,426.42615
+571,Product 571,Electronics,146.78096
+572,Product 572,Home & Garden,236.59814
+573,Product 573,Sports,308.3252
+574,Product 574,Toys,344.15115
+575,Product 575,Toys,112.20777
+576,Product 576,Sports,19.023561
+577,Product 577,Sports,110.98289
+578,Product 578,Electronics,29.724808
+579,Product 579,Home & Garden,201.8664
+580,Product 580,Toys,111.90664
+581,Product 581,Clothing,239.76195
+582,Product 582,Toys,298.1658
+583,Product 583,Clothing,292.42407
+584,Product 584,Electronics,440.47687
+585,Product 585,Electronics,413.27924
+586,Product 586,Electronics,79.05424
+587,Product 587,Home & Garden,321.61945
+588,Product 588,Electronics,152.3711
+589,Product 589,Home & Garden,336.33493
+590,Product 590,Clothing,374.61548
+591,Product 591,Clothing,225.38348
+592,Product 592,Electronics,143.38626
+593,Product 593,Toys,484.15143
+594,Product 594,Sports,310.37943
+595,Product 595,Home & Garden,140.47263
+596,Product 596,Toys,416.0857
+597,Product 597,Electronics,164.77127
+598,Product 598,Electronics,404.23172
+599,Product 599,Clothing,68.08381
+600,Product 600,Electronics,491.96933
+601,Product 601,Home & Garden,365.49826
+602,Product 602,Home & Garden,282.22598
+603,Product 603,Electronics,417.23654
+604,Product 604,Home & Garden,260.98627
+605,Product 605,Home & Garden,352.84738
+606,Product 606,Electronics,345.25494
+607,Product 607,Clothing,205.84569
+608,Product 608,Home & Garden,498.5494
+609,Product 609,Electronics,136.16118
+610,Product 610,Sports,239.81744
+611,Product 611,Electronics,151.30037
+612,Product 612,Clothing,115.17386
+613,Product 613,Home & Garden,207.39845
+614,Product 614,Clothing,491.44
+615,Product 615,Home & Garden,209.19978
+616,Product 616,Electronics,310.85745
+617,Product 617,Clothing,344.93945
+618,Product 618,Home & Garden,328.154
+619,Product 619,Sports,49.10145
+620,Product 620,Sports,253.2635
+621,Product 621,Home & Garden,431.91937
+622,Product 622,Sports,429.76837
+623,Product 623,Sports,202.81914
+624,Product 624,Toys,116.30855
+625,Product 625,Toys,195.0159
+626,Product 626,Toys,242.06068
+627,Product 627,Electronics,143.45406
+628,Product 628,Electronics,102.04023
+629,Product 629,Sports,21.819643
+630,Product 630,Clothing,143.60098
+631,Product 631,Home & Garden,349.4276
+632,Product 632,Home & Garden,466.53
+633,Product 633,Electronics,114.09266
+634,Product 634,Sports,484.68954
+635,Product 635,Home & Garden,231.17928
+636,Product 636,Toys,128.31459
+637,Product 637,Clothing,351.3199
+638,Product 638,Home & Garden,99.49208
+639,Product 639,Sports,402.67575
+640,Product 640,Sports,215.90251
+641,Product 641,Toys,492.71527
+642,Product 642,Clothing,136.56886
+643,Product 643,Toys,218.96634
+644,Product 644,Electronics,98.8879
+645,Product 645,Home & Garden,130.15639
+646,Product 646,Electronics,20.980509
+647,Product 647,Home & Garden,405.45456
+648,Product 648,Home & Garden,285.7124
+649,Product 649,Home & Garden,308.1551
+650,Product 650,Home & Garden,195.19798
+651,Product 651,Electronics,356.44513
+652,Product 652,Home & Garden,295.4998
+653,Product 653,Home & Garden,418.56894
+654,Product 654,Electronics,62.875443
+655,Product 655,Sports,11.211558
+656,Product 656,Clothing,61.886936
+657,Product 657,Home & Garden,96.09985
+658,Product 658,Clothing,48.678764
+659,Product 659,Toys,388.05707
+660,Product 660,Home & Garden,62.12601
+661,Product 661,Toys,146.82872
+662,Product 662,Toys,400.6077
+663,Product 663,Toys,249.01508
+664,Product 664,Home & Garden,29.376682
+665,Product 665,Toys,256.89377
+666,Product 666,Electronics,94.72245
+667,Product 667,Electronics,352.3221
+668,Product 668,Home & Garden,69.93229
+669,Product 669,Electronics,57.094414
+670,Product 670,Toys,318.22745
+671,Product 671,Sports,189.87685
+672,Product 672,Sports,466.8066
+673,Product 673,Toys,414.63757
+674,Product 674,Electronics,162.04149
+675,Product 675,Electronics,190.71565
+676,Product 676,Home & Garden,437.40182
+677,Product 677,Home & Garden,168.94481
+678,Product 678,Toys,341.39548
+679,Product 679,Electronics,352.17984
+680,Product 680,Electronics,425.46432
+681,Product 681,Home & Garden,269.3577
+682,Product 682,Home & Garden,39.068947
+683,Product 683,Toys,29.379644
+684,Product 684,Clothing,185.5503
+685,Product 685,Home & Garden,383.43915
+686,Product 686,Clothing,216.55704
+687,Product 687,Sports,382.73965
+688,Product 688,Home & Garden,312.586
+689,Product 689,Electronics,374.07834
+690,Product 690,Home & Garden,319.0841
+691,Product 691,Home & Garden,292.25125
+692,Product 692,Electronics,286.28424
+693,Product 693,Toys,352.424
+694,Product 694,Home & Garden,86.98567
+695,Product 695,Electronics,127.48928
+696,Product 696,Home & Garden,496.62112
+697,Product 697,Toys,30.229574
+698,Product 698,Clothing,222.54492
+699,Product 699,Toys,475.8199
+700,Product 700,Clothing,471.89285
+701,Product 701,Home & Garden,447.28632
+702,Product 702,Electronics,196.17381
+703,Product 703,Toys,206.81834
+704,Product 704,Toys,141.92545
+705,Product 705,Home & Garden,92.977875
+706,Product 706,Sports,469.11566
+707,Product 707,Electronics,329.97726
+708,Product 708,Electronics,20.726728
+709,Product 709,Home & Garden,248.9547
+710,Product 710,Home & Garden,180.04501
+711,Product 711,Clothing,103.49536
+712,Product 712,Sports,341.81583
+713,Product 713,Toys,475.65524
+714,Product 714,Home & Garden,167.24092
+715,Product 715,Toys,169.92223
+716,Product 716,Sports,65.59968
+717,Product 717,Toys,432.40027
+718,Product 718,Toys,351.7834
+719,Product 719,Clothing,457.3369
+720,Product 720,Electronics,394.99426
+721,Product 721,Clothing,389.6546
+722,Product 722,Electronics,110.254166
+723,Product 723,Home & Garden,107.176735
+724,Product 724,Toys,284.56424
+725,Product 725,Sports,197.09253
+726,Product 726,Electronics,277.12848
+727,Product 727,Sports,455.8043
+728,Product 728,Home & Garden,318.85254
+729,Product 729,Electronics,459.69177
+730,Product 730,Toys,27.16906
+731,Product 731,Electronics,388.61127
+732,Product 732,Electronics,180.71004
+733,Product 733,Clothing,13.315685
+734,Product 734,Toys,428.89612
+735,Product 735,Home & Garden,435.11038
+736,Product 736,Toys,465.74707
+737,Product 737,Clothing,268.893
+738,Product 738,Sports,471.88428
+739,Product 739,Toys,452.59686
+740,Product 740,Electronics,220.92833
+741,Product 741,Electronics,157.2755
+742,Product 742,Toys,243.64662
+743,Product 743,Clothing,434.53552
+744,Product 744,Toys,260.59714
+745,Product 745,Sports,379.37366
+746,Product 746,Clothing,315.41794
+747,Product 747,Electronics,30.851143
+748,Product 748,Sports,18.90758
+749,Product 749,Home & Garden,164.4535
+750,Product 750,Electronics,404.6237
+751,Product 751,Clothing,287.15192
+752,Product 752,Clothing,17.749693
+753,Product 753,Home & Garden,430.67596
+754,Product 754,Toys,240.46075
+755,Product 755,Toys,455.63235
+756,Product 756,Electronics,235.70143
+757,Product 757,Clothing,231.69908
+758,Product 758,Toys,459.7792
+759,Product 759,Clothing,324.0023
+760,Product 760,Toys,167.16945
+761,Product 761,Toys,328.71277
+762,Product 762,Sports,53.823513
+763,Product 763,Sports,269.2984
+764,Product 764,Home & Garden,337.11914
+765,Product 765,Sports,89.892235
+766,Product 766,Home & Garden,337.93988
+767,Product 767,Sports,77.1079
+768,Product 768,Clothing,320.49796
+769,Product 769,Toys,439.502
+770,Product 770,Electronics,484.60925
+771,Product 771,Electronics,267.3277
+772,Product 772,Clothing,398.1909
+773,Product 773,Home & Garden,217.84096
+774,Product 774,Toys,160.93112
+775,Product 775,Home & Garden,451.25375
+776,Product 776,Clothing,417.8202
+777,Product 777,Sports,355.56888
+778,Product 778,Sports,73.55321
+779,Product 779,Electronics,191.40239
+780,Product 780,Toys,34.301037
+781,Product 781,Sports,177.53732
+782,Product 782,Sports,350.89798
+783,Product 783,Electronics,388.09863
+784,Product 784,Electronics,237.62347
+785,Product 785,Electronics,27.884844
+786,Product 786,Sports,101.53049
+787,Product 787,Clothing,322.7205
+788,Product 788,Toys,280.52496
+789,Product 789,Home & Garden,131.77226
+790,Product 790,Clothing,116.87723
+791,Product 791,Sports,382.41736
+792,Product 792,Home & Garden,61.274845
+793,Product 793,Sports,373.6443
+794,Product 794,Sports,149.2081
+795,Product 795,Sports,143.2856
+796,Product 796,Electronics,25.833672
+797,Product 797,Electronics,269.6506
+798,Product 798,Sports,177.1707
+799,Product 799,Home & Garden,196.58804
+800,Product 800,Home & Garden,38.731766
+801,Product 801,Home & Garden,103.81798
+802,Product 802,Sports,128.56633
+803,Product 803,Clothing,132.65561
+804,Product 804,Sports,190.10948
+805,Product 805,Home & Garden,417.9795
+806,Product 806,Electronics,108.70396
+807,Product 807,Toys,273.19144
+808,Product 808,Clothing,175.48784
+809,Product 809,Clothing,179.3473
+810,Product 810,Electronics,442.4089
+811,Product 811,Clothing,47.246147
+812,Product 812,Electronics,58.492954
+813,Product 813,Sports,317.38504
+814,Product 814,Sports,398.87943
+815,Product 815,Home & Garden,85.09035
+816,Product 816,Toys,268.21622
+817,Product 817,Sports,354.37177
+818,Product 818,Clothing,277.04712
+819,Product 819,Clothing,496.49524
+820,Product 820,Clothing,167.0917
+821,Product 821,Sports,162.82123
+822,Product 822,Home & Garden,438.02936
+823,Product 823,Sports,142.22197
+824,Product 824,Clothing,28.091637
+825,Product 825,Sports,374.52548
+826,Product 826,Home & Garden,143.36919
+827,Product 827,Home & Garden,142.64673
+828,Product 828,Electronics,327.28113
+829,Product 829,Electronics,286.2746
+830,Product 830,Toys,342.57553
+831,Product 831,Clothing,117.114296
+832,Product 832,Toys,323.18005
+833,Product 833,Home & Garden,68.003456
+834,Product 834,Toys,356.19492
+835,Product 835,Home & Garden,270.62012
+836,Product 836,Electronics,442.24548
+837,Product 837,Electronics,385.8699
+838,Product 838,Clothing,195.92398
+839,Product 839,Electronics,463.02628
+840,Product 840,Sports,485.8982
+841,Product 841,Clothing,268.85178
+842,Product 842,Toys,57.16715
+843,Product 843,Toys,112.66044
+844,Product 844,Clothing,177.38081
+845,Product 845,Home & Garden,279.69827
+846,Product 846,Sports,265.82822
+847,Product 847,Home & Garden,444.73642
+848,Product 848,Clothing,390.87268
+849,Product 849,Electronics,307.44083
+850,Product 850,Home & Garden,94.2257
+851,Product 851,Sports,170.4882
+852,Product 852,Toys,425.55893
+853,Product 853,Electronics,212.0455
+854,Product 854,Toys,53.06519
+855,Product 855,Toys,144.33336
+856,Product 856,Sports,416.55374
+857,Product 857,Electronics,32.48375
+858,Product 858,Home & Garden,313.08325
+859,Product 859,Clothing,72.79309
+860,Product 860,Clothing,467.36487
+861,Product 861,Clothing,102.50369
+862,Product 862,Home & Garden,248.86377
+863,Product 863,Electronics,435.86667
+864,Product 864,Clothing,119.90739
+865,Product 865,Home & Garden,242.56602
+866,Product 866,Electronics,188.69897
+867,Product 867,Sports,493.2259
+868,Product 868,Sports,332.24466
+869,Product 869,Electronics,368.76306
+870,Product 870,Clothing,247.0474
+871,Product 871,Home & Garden,443.45123
+872,Product 872,Home & Garden,63.836735
+873,Product 873,Sports,156.028
+874,Product 874,Clothing,221.5914
+875,Product 875,Toys,201.6887
+876,Product 876,Clothing,442.93237
+877,Product 877,Sports,94.319725
+878,Product 878,Electronics,104.14917
+879,Product 879,Home & Garden,458.1235
+880,Product 880,Toys,378.61545
+881,Product 881,Home & Garden,468.99426
+882,Product 882,Clothing,450.61966
+883,Product 883,Toys,306.01898
+884,Product 884,Toys,47.988186
+885,Product 885,Sports,209.00208
+886,Product 886,Home & Garden,315.1593
+887,Product 887,Home & Garden,465.14902
+888,Product 888,Sports,373.80673
+889,Product 889,Clothing,199.97722
+890,Product 890,Sports,324.3613
+891,Product 891,Toys,365.87064
+892,Product 892,Home & Garden,129.35612
+893,Product 893,Sports,421.99155
+894,Product 894,Home & Garden,331.02084
+895,Product 895,Home & Garden,173.60886
+896,Product 896,Sports,216.27405
+897,Product 897,Electronics,55.790913
+898,Product 898,Home & Garden,19.149063
+899,Product 899,Toys,398.27502
+900,Product 900,Electronics,218.02658
+901,Product 901,Electronics,329.10013
+902,Product 902,Sports,454.15573
+903,Product 903,Clothing,129.64297
+904,Product 904,Clothing,57.399586
+905,Product 905,Clothing,475.99564
+906,Product 906,Clothing,277.5946
+907,Product 907,Home & Garden,185.35973
+908,Product 908,Clothing,436.2766
+909,Product 909,Toys,116.558655
+910,Product 910,Sports,79.680084
+911,Product 911,Toys,429.64313
+912,Product 912,Home & Garden,299.62122
+913,Product 913,Clothing,364.8673
+914,Product 914,Home & Garden,424.87234
+915,Product 915,Clothing,493.40207
+916,Product 916,Sports,366.9306
+917,Product 917,Toys,290.14722
+918,Product 918,Home & Garden,272.17273
+919,Product 919,Home & Garden,122.77589
+920,Product 920,Home & Garden,272.7385
+921,Product 921,Toys,23.715654
+922,Product 922,Electronics,494.5772
+923,Product 923,Toys,64.141884
+924,Product 924,Clothing,316.31247
+925,Product 925,Home & Garden,270.58655
+926,Product 926,Sports,356.999
+927,Product 927,Clothing,254.20248
+928,Product 928,Home & Garden,186.01962
+929,Product 929,Sports,366.32635
+930,Product 930,Home & Garden,433.91318
+931,Product 931,Sports,92.62836
+932,Product 932,Sports,111.771935
+933,Product 933,Home & Garden,255.1959
+934,Product 934,Toys,158.85884
+935,Product 935,Toys,414.95898
+936,Product 936,Clothing,162.69444
+937,Product 937,Electronics,36.707
+938,Product 938,Electronics,265.2354
+939,Product 939,Sports,432.01688
+940,Product 940,Clothing,187.31316
+941,Product 941,Home & Garden,23.349382
+942,Product 942,Toys,77.426735
+943,Product 943,Clothing,421.2958
+944,Product 944,Home & Garden,386.5211
+945,Product 945,Sports,355.4724
+946,Product 946,Toys,388.5602
+947,Product 947,Electronics,92.39941
+948,Product 948,Toys,493.06097
+949,Product 949,Electronics,220.15666
+950,Product 950,Sports,449.19238
+951,Product 951,Clothing,77.32965
+952,Product 952,Home & Garden,326.38205
+953,Product 953,Toys,239.65652
+954,Product 954,Electronics,44.020382
+955,Product 955,Clothing,135.9317
+956,Product 956,Electronics,20.721449
+957,Product 957,Sports,146.63654
+958,Product 958,Sports,216.956
+959,Product 959,Home & Garden,427.55127
+960,Product 960,Home & Garden,472.19452
+961,Product 961,Toys,219.49852
+962,Product 962,Sports,16.596184
+963,Product 963,Home & Garden,34.375935
+964,Product 964,Sports,147.6272
+965,Product 965,Sports,111.97358
+966,Product 966,Electronics,171.0198
+967,Product 967,Home & Garden,406.6432
+968,Product 968,Toys,36.778107
+969,Product 969,Home & Garden,389.9737
+970,Product 970,Clothing,335.988
+971,Product 971,Home & Garden,362.54428
+972,Product 972,Sports,253.62178
+973,Product 973,Clothing,409.51547
+974,Product 974,Toys,42.483356
+975,Product 975,Electronics,390.86957
+976,Product 976,Home & Garden,293.9748
+977,Product 977,Clothing,486.65485
+978,Product 978,Sports,393.04935
+979,Product 979,Electronics,120.89197
+980,Product 980,Home & Garden,269.37814
+981,Product 981,Electronics,27.554472
+982,Product 982,Toys,302.65192
+983,Product 983,Clothing,293.33707
+984,Product 984,Toys,17.368887
+985,Product 985,Home & Garden,261.8335
+986,Product 986,Electronics,162.2596
+987,Product 987,Clothing,68.59354
+988,Product 988,Sports,112.183174
+989,Product 989,Electronics,492.3377
+990,Product 990,Home & Garden,265.11282
+991,Product 991,Electronics,334.6832
+992,Product 992,Electronics,184.22105
+993,Product 993,Sports,485.3936
+994,Product 994,Electronics,489.0836
+995,Product 995,Toys,383.80634
+996,Product 996,Toys,297.81766
+997,Product 997,Home & Garden,158.81897
+998,Product 998,Clothing,267.79987
+999,Product 999,Electronics,363.3658
+1000,Product 1000,Home & Garden,336.12222
