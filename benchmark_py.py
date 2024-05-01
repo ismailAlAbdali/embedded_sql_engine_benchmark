@@ -6,25 +6,30 @@ import pandas as pd # pandas for plotting the results
 import matplotlib.pyplot as plt
 # importing embedded sql engines
 import chdb
+from chdb import session as ses
 import duckdb
 import datafusion
 import glaredb
  
 
+# note that the cpu usage calculation right now calcuates the cpu utiliztion - certain interval (time) 
+
+# in this case the time is the query exeution time. 
+# might need another way to calcuate the cpu utilziation. 
 
 #  to do
-# 1. ensure that the metrics and collected for all of the queries in all eninges
+# 0. Ensure that CPU calculation is correct
+# 1. ensure that the metrics and collected for all of the queries in all eninges # checkout some of the metrics collected from query 3 and query2 
 # 2. make the query files for chDB sql engine and ensure the query string work smootly
-# 3. make the plotting more in one funcution
-# 4. 
-
+# 3. make the plotting looks better and invoked by one function
+# 4. start writing the report 
 
 
 
 # CONSTANTS
-SQL_ENGINES = ["datafusion", "duckdb", "glaredb"] # the SQL engines
-QUERIES_NUM = 4 # the numebr of quries we are going to benchmark
-MAX_INTERATIONS = 3 # interate over running the quuries on different databases 10 time
+SQL_ENGINES = ["datafusion", "duckdb", "glaredb","chdb"] # the SQL engines
+QUERIES_NUM = 4 # the numebr of quries we are going to benchmark 
+MAX_INTERATIONS = 3 # interate over running the quuries on different databases 10 time -> this should be 10
 DIRECTORY = "./csv_files"
 
 def load_query(db, query_num):
@@ -58,6 +63,7 @@ def get_csv_paths_and_table_names(directory):
 def run_query_and_monitor(engine, query_exec_func):
     """ Run the query and monitor the process, returning execution metrics. """
     pid = psutil.Process().pid
+    result = None 
     start_time = time.time()
     result = query_exec_func()
     end_time = time.time()
@@ -73,12 +79,7 @@ def run_query_and_monitor(engine, query_exec_func):
     }
 
 
-
-
-
 csv_files_path,table_names = get_csv_paths_and_table_names(DIRECTORY)
-
-
 
 
 
@@ -91,6 +92,7 @@ for engine in SQL_ENGINES:
                 case "duckdb":
                     print(f"Testing {engine}")
                     con = duckdb.connect()
+                    con.execute("SET threads TO 1;") # set the numebr of threads to 1
                     metrics = run_query_and_monitor(engine, lambda: con.execute(query))
                     con.close()
                     
@@ -110,8 +112,15 @@ for engine in SQL_ENGINES:
                         ctx.register_csv(table_names[k], csv_files_path[k])
                         reg_elapsed_time = time.time() - reg_start_time
                         registration_times.append(reg_elapsed_time)
+                    # print(f"Regrestionation time here for datafusion is {sum(registration_times) }") # dubugging regirtation time which is IO time for datafusion
                     metrics = run_query_and_monitor(engine, lambda: ctx.sql(query).collect())
-                    metrics['execution_time'] = metrics['execution_time'] + sum(registration_times)  # Add registration time to metrics, include disk I/O time
+                    metrics['execution_time'] = metrics['execution_time'] + sum(registration_times) # Add registration time to metrics, include disk I/O time
+            
+                case "chdb": # need to put chdb queries here and make the SQL queries files
+                    print(f"Testing {engine}")
+                    metrics = run_query_and_monitor(engine, lambda: chdb.query(query))
+
+
             metrics["query"] = f"query {query_num + 1}"
             execution_metrics.append(metrics)
 
@@ -127,25 +136,31 @@ df_summary = df_metrics.groupby(['query', 'engine']).agg({
     'execution_time': 'mean'
 }).reset_index()
 
+print(df_summary)
 # Separate into different DataFrames for each metric to simplify plotting
-cpu_summary = df_summary.pivot(index='query', columns='engine', values='cpu_usage')
+cpu_summary = df_summary.pivot(index='query', columns='engine', values='cpu_usage') # 
 memory_summary = df_summary.pivot(index='query', columns='engine', values='memory_usage')
 time_summary = df_summary.pivot(index='query', columns='engine', values='execution_time')
+time_summary = time_summary.mul(1000)
 
 # Plotting functions
-def plot_bar(df, title, ylabel,y_min = 0.0001, y_max = 1,log_scale = False):
+def plot_bar(df, title, ylabel):
     plt.figure(figsize=(12, 6))
     df.plot(kind='bar')
     plt.title(title)
     plt.xlabel('Query')
     plt.ylabel(ylabel)
     plt.yscale('log')  # Set the y-axis to a logarithmic scale
-    plt.ylim(y_min, y_max)  # Set the range for the y-axis from 0.0001 to 1
+    # plt.ylim(y_min, y_max)  # Set the range for the y-axis from 0.0001 to 1
     plt.legend(title='Engine')
     plt.tight_layout()
+  
     plt.show()
 
+
+print(time_summary)
 # Plot each metric
 plot_bar(cpu_summary, 'Average CPU Utilization per Query', 'Average CPU Utilization (%)')
-plot_bar(memory_summary, 'Average Memory Usage per Query', 'Average Memory Usage (MB)',y_min = 0,y_max = 1000)
-plot_bar(time_summary, 'Average Execution Time per Query', 'Average Execution Time (s)')
+plot_bar(memory_summary, 'Average Memory Usage per Query', 'Average Memory Usage (MB)')
+plot_bar(time_summary, 'Average Execution Time per Query', 'Average Execution Time (ms)')
+
