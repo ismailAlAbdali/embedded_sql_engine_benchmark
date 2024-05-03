@@ -27,5 +27,5 @@ To run the benchmarks, you need Python installed on your machine, other required
 ### Running the Benchmarks
 - Navigate to the project directory.
 - Execute the benchmark script.
-  - _python benchmarks_py.py_
+  - _python benchmark_py.py_
 
